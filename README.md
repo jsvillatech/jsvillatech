@@ -31,7 +31,6 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 ---
 
 ### 🧰 Tech Stack
-### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
