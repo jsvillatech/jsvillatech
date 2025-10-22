@@ -94,6 +94,8 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 <div align="center">
 
 ### 🎥 Content & Community
+🎬 *Building the bridge between research, data science, and real-world MLOps.*  
+
 🧠 I love sharing insights about Data Science, Machine Learning, and MLOps.  
 📺 Coming soon: tutorials, hands-on projects, and breakdowns on my future [YouTube Channel](#)  
 
