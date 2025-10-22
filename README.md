@@ -93,6 +93,24 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 
 <div align="center">
 
+### 🎥 Content & Community
+🧠 I love sharing insights about Data Science, Machine Learning, and MLOps.  
+📺 Coming soon: tutorials, hands-on projects, and breakdowns on my future [YouTube Channel](#)  
+
+---
+
+### ☕ Support My Work
+If my projects or future tutorials help you, you’ll soon be able to support my work here!  
+<a href="#" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="180">
+</a>
+
+---
+
+</div>
+
+<div align="center">
+
 ### 🚀 Let’s Connect  
 💡 Interested in collaborating on AI, MLOps, or applied ML research?  
 📬 Reach out via [LinkedIn](https://linkedin.com/in/jsdelvil) or [Email](mailto:jst3ch@gmail.com)
