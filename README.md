@@ -95,7 +95,7 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 
 ### 🚀 Let’s Connect  
 💡 Interested in collaborating on AI, MLOps, or applied ML research?  
-📬 Reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or [Email](mailto:jst3ch@gmail.com)
+📬 Reach out via [LinkedIn](https://linkedin.com/in/jsdelvil) or [Email](mailto:jst3ch@gmail.com)
 
 ---
 
