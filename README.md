@@ -4,6 +4,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/jhoansteven)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jst3ch)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jst3ch@gmail.com)
+[![Resume Badge](https://img.shields.io/badge/-Resume-555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1pLo-dGAWK5gX8xdObdwJ7k4TsvwlgU6x/view?usp=share_link)
 
 ---
 
