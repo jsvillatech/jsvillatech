@@ -13,8 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=jsvillatech&label=Profile%20views&color=0e75b6&style=flat" alt="jsvillatech" /> 
 </p>
 
-I’m a **Data Scientist & ML Engineer** passionate about designing, training, and deploying **machine learning** and **generative AI** systems that deliver real-world impact.  
-With over 5 years of experience, I specialize in **LLMs**, **production-ready ML pipelines**, and **AI automation** using **AWS**, **GCP**, and **Docker**.
+<p align="justify">
+I’m a <b>Data Scientist</b> & <b>ML Engineer</b> passionate about designing, training, and deploying 
+<b>machine learning</b> and <b>generative AI</b> systems that deliver real-world impact.  
+With over <b>5 years of experience</b>, I specialize in <b>LLMs</b>, <b>production-ready ML pipelines</b>, 
+and <b>AI automation</b> using <b>AWS</b>, <b>GCP</b>, and <b>Docker</b>.
+</p>
 
 ---
 
