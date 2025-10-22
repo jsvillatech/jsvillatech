@@ -37,28 +37,15 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" 
        alt="AWS" width="50" height="50" 
-       style="background-color:#ffffff; padding:5px; border-radius:8px;"/>
-
-  <!-- GCP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
-       alt="GCP" width="50" height="50"/>
-
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-       alt="Git" width="45" height="45"/>
-
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" 
-       alt="Jupyter" width="45" height="45"/>
-
-  <!-- Bash -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
+       style="filter: invert(1) hue-rotate(180deg);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
        alt="Bash" width="45" height="45" 
-       style="background-color:#f5f5f5; padding:5px; border-radius:8px;"/>
+       style="filter: invert(1) hue-rotate(180deg);"/>
 </p>
 
 ---
