@@ -1,13 +1,14 @@
-## Hey there 👋, I'm [J. Steven Delgado V.!](https://github.com/jsvillatech)
+## Hey there 👋, I'm [J. Steven Delgado V.](https://github.com/jsvillatech)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yourusername)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jsdelvil)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/jhoansteven)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jst3ch)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jst3ch@gmail.com)
 
 ---
 
 ### 👋 Glad to see you here!
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jsvillatech&label=Profile%20views&color=0e75b6&style=flat" alt="jsvillatech" /> 
 </p>
@@ -18,6 +19,7 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 ---
 
 ### 🧠 About Me
+
 - 🤖 I design and deploy **LLM-powered systems** (OpenAI, Vertex AI, Dialogflow CX)  
 - ⚙️ Experienced in **MLOps**, model serving, and **CI/CD for ML**  
 - 🧩 Focused on **machine learning**, **NLP**, and **applied generative AI**  
@@ -29,19 +31,23 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 ---
 
 ### 🧰 Tech Stack
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"></code>
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"></code>
+</p>
 
 ---
 
 ### 📂 Featured Projects
+
 | Project | Description | Tech |
 |----------|--------------|------|
 | [💬 LLM RAG Chatbot](#) | Built a secure LLM-based chatbot integrating OpenAI API and AWS RDS for contextual Q&A | Python • LangChain • AWS • Docker |
@@ -53,6 +59,7 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 ---
 
 ### 📚 Research & Publications
+
 - **Features to Detect Android Malware** – *IEEE Colombian Conference on Communications and Computing (COLCOM), 2018*  
   [🔗 View Paper](https://ieeexplore.ieee.org/document/8466715/)
   
@@ -64,6 +71,7 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 ---
 
 ### 📊 GitHub Stats
+
 <details>
   <summary><b>⚡ Stats & Top Languages</b></summary>
   <br/>
@@ -81,10 +89,11 @@ With over 5 years of experience, I specialize in **LLMs**, **production-ready ML
 
 <div align="center">
 
-### 🚀 Let’s Connect
+### 🚀 Let’s Connect  
 💡 Interested in collaborating on AI, MLOps, or applied ML research?  
 📬 Reach out via [LinkedIn](https://linkedin.com/in/yourprofile) or [Email](mailto:jst3ch@gmail.com)
 
 ---
+
 
 </div>
